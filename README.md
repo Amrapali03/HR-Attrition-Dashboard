@@ -1,6 +1,6 @@
 # HR-Attrition-Dashboard
 Link to Tableau Public dashboard:
-https://public.tableau.com/app/profile/amrapali.samanta4121/viz/HRAttritionAnalyticsdashboarddraft3/Demographics
+https://public.tableau.com/app/profile/amrapali.samanta4121/viz/HRAttritionAnalyticsdashboard_Finalv2/Demographics
 
 ## Dataset
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
