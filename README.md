@@ -2,6 +2,12 @@
 Link to Tableau Public dashboard:
 https://public.tableau.com/app/profile/amrapali.samanta4121/viz/HRAttritionAnalyticsdashboard_Finalv2/Demographics
 
+<img width="1140" alt="image" src="https://github.com/Amrapali03/HR-Attrition-Dashboard/assets/114306627/fe47b04e-0b2a-4c94-b670-a24e1f9b3233">
+<img width="1140" alt="image" src="https://github.com/Amrapali03/HR-Attrition-Dashboard/assets/114306627/37321290-956c-4021-ad60-05e24d587733">
+<img width="1140" alt="image" src="https://github.com/Amrapali03/HR-Attrition-Dashboard/assets/114306627/0cfd8a38-23af-492f-8015-f9e726b87018">
+
+
+
 ## Dataset
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
