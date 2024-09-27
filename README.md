@@ -58,9 +58,11 @@ YearsSinceLastPromotion: Number of years since the employee's last promotion
 YearsWithCurrManager: Number of years the employee has been working with the current manager
 
 ## Analysis
+
 Attrition Indicators
 Using the analysis in the following tabs in this dashboard, we can outline the significant indicators leading to the rise of attrition in the company which are stated as below, divided into the demographic factors and the job-specific factors.
 
+Conducted comprehensive exploratory data analysis (EDA) in R to identify critical factors influencing attrition within a company. Developed an interactive Tableau dashboard showcasing key insights on attrition trends. Enhanced user engagement through calculated fields and interactive buttons, facilitating in-depth exploration of demographic and job-related factors affecting attrition. Presented findings to stakeholders to inform HR strategies and retention efforts.
 
   Age: 25-35 age group 
 
